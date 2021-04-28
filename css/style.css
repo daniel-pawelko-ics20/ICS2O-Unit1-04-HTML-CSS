@@ -2,7 +2,8 @@
 * Created on: April 2021
 * This CSS file defines style for index.html ICS2O-Unit1-04-HTML-CSS
 */
-/* To style id start with "#", to style class start with "."*/
+
+/* To style id start with "#", to style class start with "." */
 #my-header {
   background-color: yellow;
   color: hsl(147, 50%, 47%);
