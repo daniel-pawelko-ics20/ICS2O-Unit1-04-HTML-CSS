@@ -3,4 +3,4 @@
 
 
 
-This website can be found at: [https://daniel-pawelko-ics20.github.io/ICS2O-Unit1-04-HTML-CSS](https://daniel-pawelko-ics20.github.io/ICS2O-Unit1-04-HTML-CSS)
+This website can be found at: [https://daniel-pawelko-ics20.github.io/ICS2O-Unit1-04-HTML-CSS/index.html](https://daniel-pawelko-ics20.github.io/ICS2O-Unit1-04-HTML-CSS/index.html)
